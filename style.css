@@ -1,0 +1,73 @@
+h1 {
+    color: black;
+    font-family: "Montserrat Alternates", sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    text-align: center;
+}
+h2 {
+    color: black;
+    font-family: "Montserrat Alternates", sans-serif;
+    font-style: italic;
+    font-size: 24px;
+    text-align: center;
+}
+h3 {
+    color: black;
+    font-family: Yanone Kaffeesatz, sans-serif;
+    font-style: normal;
+    font-size: 18px;
+}
+p {
+    color: black;
+    font-family: "Yanone Kaffeesatz", sans-serif;
+    font-style: normal;
+    font-size: 18px;
+}
+ul {
+    color: black;
+    font-family: "Yanone Kaffeesatz", sans-serif;
+    font-style: normal;
+    font-size: 18px;
+    margin: 20px; 
+    padding: 0px;
+}
+hr {
+    color: black;
+    size: 2px;
+    width: 1000px;
+}
+body {
+    width: 1000px;
+    margin: auto;
+    background-image: url(./img/picture.png);
+}
+a {
+    color: blueviolet;
+    font-family: "Yanone Kaffeesatz", sans-serif;
+    font-style: italic;
+    font-size: 18px;
+}
+.movie {
+    border: 1px solid black;
+    width: 238px;
+    height: 750px;
+    float: left;
+    padding: 5px;
+} 
+.myphoto {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
+  .film-poster {
+    width: 238px;
+    height: 365px;
+    background-image: url(https://upload.wikimedia.org/wikipedia/en/0/05/Gone_Girl_Poster.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+    margin-bottom: 23px;
+  }
